@@ -1,7 +1,8 @@
 # console-master
 ### Allows colors and adds correct time-format to console logs
 
-_console-master is node module console logger that supports colors and correct time-format built by @Refloow for OSL-works Github projects._
+_console-master is node module console logger that supports colors and correct time-format_
+_built by @Refloow for OSL-works Github projects._
 
 ## Installation
 
