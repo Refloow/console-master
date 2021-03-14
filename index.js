@@ -69,8 +69,8 @@ const colors = {
     error: 'red',
     new: 'underline gray',
     info: 'yellow',
-	  summary: 'cyan',
-	};
+    summary: 'cyan'
+};
 
 winston.addColors(colors);
 const logger = module.exports = winston.createLogger({
