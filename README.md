@@ -4,6 +4,8 @@
 _console-master is node module console logger that supports colors and correct time-format_
 _built by @Refloow for OSL-works Github projects._
 
+<img src="https://img.shields.io/npm/dt/console-master.svg" alt="Downloads">
+
 ## Installation
 
 Install it from [npm](https://www.npmjs.com/package/console-master):
