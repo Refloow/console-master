@@ -1,0 +1,30 @@
+{
+  "name": "console-master",
+  "version": "1.0.0",
+  "description": "console-master is console logger that supports colors and correct time-format built by refloow for osl-works github projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSL-Works/console-master.git"
+  },
+  "keywords": [
+    "console",
+    "master",
+    "colors",
+    "format",
+    "logs",
+    "logger"
+  ],
+  "author": "Refloow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OSL-Works/console-master/issues"
+  },
+  "homepage": "https://github.com/OSL-Works/console-master#readme",
+  "dependencies": {
+    "winston": "3.3.3"
+  }
+}
