@@ -55,17 +55,21 @@ const level ={
   false: 0,
   true: 1,
   fail: 2,
-  new: 3,
-  info: 4,
-  summary:5
+  err: 3,
+  error: 4,
+  new: 5,
+  info: 6,
+  summary: 7
 };
 const colors = {
     false: 'bold red',
     true: 'bold green',
     fail: 'red',
+    err: 'red',
+    error: 'red',
     new: 'underline gray',
     info: 'yellow',
-	summary: 'cyan'
+	  summary: 'cyan',
 	};
 
 winston.addColors(colors);
