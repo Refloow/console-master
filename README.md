@@ -38,8 +38,8 @@ Console.summary("Shows cyan text");
 Console.fail("Shows red text");
 Console.err("Shows red text");
 Console.error("Shows red text");
-Console.import("");
-Console.export("");
+Console.import("Shows white text with red background");
+Console.export("Shows white text with green background");
 ```
 
 ## Result looks like this:
