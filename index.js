@@ -63,7 +63,9 @@ const level ={
   error: 4,
   new: 5,
   info: 6,
-  summary: 7
+  summary: 7,
+  import: 8,
+  export: 9
 };
 const colors = {
     false: 'bold red',
@@ -73,7 +75,9 @@ const colors = {
     error: 'red',
     new: 'underline gray',
     info: 'yellow',
-    summary: 'cyan'
+    summary: 'cyan',
+    import: 'bold white redBG',
+    export: 'bold white greenBG'
 };
 
 winston.addColors(colors);
