@@ -44,4 +44,4 @@ Console.export("");
 
 ## Result looks like this:
 
-<img src="https://github.com/OSL-Works/console-master/blob/main/.github/showcase/result.png" />
+<img src="https://github.com/OSL-Works/console-master/blob/main/.github/showcase/results.png" />
