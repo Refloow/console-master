@@ -91,7 +91,7 @@ const logger = module.exports = winston.createLogger({
     winston.format.printf(info => `${info.timestamp}: ${info.message}`)
   ),
   transports: [
-    new winston.transports.Console({level:'summary'})
+    new winston.transports.Console({level:'export'})
   ],
   level: 'info'
 });
