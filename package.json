@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OSL-Works/console-master.git"
+    "url": "git+https://github.com/Refloow/console-master.git"
   },
   "keywords": [
     "console",
@@ -21,9 +21,9 @@
   "author": "Refloow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OSL-Works/console-master/issues"
+    "url": "https://github.com/Refloow/console-master/issues"
   },
-  "homepage": "https://github.com/OSL-Works/console-master#readme",
+  "homepage": "https://github.com/Refloow/console-master#readme",
   "dependencies": {
     "winston": "3.3.3"
   }
