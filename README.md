@@ -42,6 +42,6 @@ Console.import("Shows white text with red background");
 Console.export("Shows white text with green background");
 ```
 
-## Result looks like this:
+## Result looks like this: 
 
-<img src="https://github.com/OSL-Works/console-master/blob/main/.github/showcase/results.png" />
+<img src="https://github.com/Refloow/console-master/blob/main/.github/showcase/results.png" />
